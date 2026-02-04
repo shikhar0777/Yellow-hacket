@@ -1,4 +1,4 @@
-# 🐝 Yellow H@cket: Neural-Integrated Club Infrastructure
+# 🐝 Cybersecurity Innovation Center: West Virginia State University
 
 [![Deployment: Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)](https://yellow-hacket.vercel.app/)
 [![Engine: React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
@@ -6,7 +6,7 @@
 [![Visuals: Photoshop](https://img.shields.io/badge/Design-Adobe_PS-31A8FF?style=for-the-badge&logo=adobe-photoshop)](https://adobe.com/)
 
 ## 🏛️ Executive Summary
-The **Yellow H@cket** ecosystem is the official high-performance portal for the **WVSU Cyber, AI & Robotics Club**. This repository represents a sophisticated full-stack implementation, merging a reactive frontend with a bespoke **Python-driven AI Assistant** trained on proprietary institutional datasets.
+The **Yellow H@cket** ecosystem is the official high-performance portal for the **WVSU Cybersecurity Innovation Center**. This repository represents a sophisticated full-stack implementation, merging a reactive frontend with a bespoke **Python-driven AI Assistant** trained on proprietary institutional datasets.
 
 ---
 
@@ -53,7 +53,7 @@ To explore the architecture or run this project locally:
    npm install
  
    # Ensure Python 3.x is installed
-  pip install -r requirements.txt
-  npm start
+     pip install -r requirements.txt
+     npm start
 
   Made with ❤️
